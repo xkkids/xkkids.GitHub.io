@@ -17,7 +17,7 @@ indexexchange.com, 191086, RESELLER
 pangleglobal.com, 5018432, DIRECT
 pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
 
-ironsrc.com, yicsnob@gmail.com, Direct
+ironsrc.com, 532183, Direct
 adbility-media.com, 187, RESELLER
 google.com, pub-7452201096415972, RESELLER, f08c47fec0942fa0
 smartclip.net, 8153, RESELLER
