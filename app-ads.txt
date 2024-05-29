@@ -232,6 +232,8 @@ indexexchange.com, 186081, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 199195, RESELLER, 50b1c356f2c5c8fc
 velismedia.com, 725, RESELLER
 velismedia.com, 1137, RESELLER
+lijit.com, 489963, RESELLER, fafdf38b16bf6b2b
+playdigo.com, 1965, RESELLER, 92011346d63d3c30
 
 ironsrc.com, 532183, Direct
 adbility-media.com, 187, RESELLER
